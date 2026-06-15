@@ -5,6 +5,35 @@
 </p>
 
 <p align="center">
+  <em><strong>Figure 1.</strong> Complete Hardware Prototype</em>
+</p>
+
+<p align="center">
+  <img src="media/system_diagrams/system_overview.png" width="900">
+</p>
+
+<p align="center">
+  <em><strong>Figure 2.</strong> System Overview</em>
+</p>
+
+<p align="center">
+  <img src="media/system_diagrams/signal_processing_pipeline.png" width="700">
+</p>
+
+<p align="center">
+  <em><strong>Figure 3.</strong> Signal Processing Pipeline</em>
+</p>
+
+---
+
+
+# A Motion-Aware Embedded Heart-Rate Monitoring Framework Using Three-Mode NLMS Adaptive Filtering, Frequency-Domain Estimation, and Signal Quality Assessment
+
+<p align="center">
+  <img src="hardware/images/full_hardware.jpeg" width="750">
+</p>
+
+<p align="center">
   <img src="media/system_diagrams/system_overview.png" width="900">
 </p>
 
